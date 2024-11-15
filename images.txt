@@ -8,3 +8,4 @@ python:alpine3.19
 centos:7
 mysql:8.0.25
 nacos/nacos-server:v2.1.2
+nginx:1.21.1
