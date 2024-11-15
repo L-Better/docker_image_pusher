@@ -7,3 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 centos:7
 mysql:8.0.25
+nacos/nacos-server:v2.1.2
