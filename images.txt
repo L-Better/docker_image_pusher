@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.25
 nacos/nacos-server:v2.1.2
+mysql:8.0.34
