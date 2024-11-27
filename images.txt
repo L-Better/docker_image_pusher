@@ -10,3 +10,4 @@ mysql:8.0.34
 mysql:8.0.40
 mysql:8.0.40-oracle
 nginx:1.20.1-alpine
+mysql:8.0.33
