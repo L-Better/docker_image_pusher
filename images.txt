@@ -7,4 +7,4 @@ xhofe/alist:latest
 bitnami/zookeeper:3.8
 bitnami/kafka:3.5
 webcenter/activemq:5.14.3-arm
-vromero/activemg-artemis:2.11.0-alpine
+vromero/activemq-artemis:2.11.0-alpine
