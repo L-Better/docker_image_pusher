@@ -1,2 +1,2 @@
 mysql:8.0.34
-webcenter/activemq:5.18.3
+apache/activemq:5.18.3
