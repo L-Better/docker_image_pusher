@@ -1,2 +1,1 @@
-mysql:8.0.34
-apache/activemq:5.18.3
+nginx:1.26.3
