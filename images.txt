@@ -1,1 +1,1 @@
-alpine:latest
+consul:1.13.8
