@@ -1,7 +1,7 @@
-kube-apiserver
-kube-proxy
-kube-controller-manager
-kube-scheduler
-etcd
-coredns
-pause
+registry.aliyuncs.com/google_containers/kube-apiserver
+registry.aliyuncs.com/google_containers/kube-proxy
+registry.aliyuncs.com/google_containers/kube-controller-manager
+registry.aliyuncs.com/google_containers/kube-scheduler
+registry.aliyuncs.com/google_containers/etcd
+registry.aliyuncs.com/google_containers/coredns
+registry.aliyuncs.com/google_containers/pause
