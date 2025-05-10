@@ -1,1 +1,7 @@
-consul:1.13.8
+kube-apiserver
+kube-proxy
+kube-controller-manager
+kube-scheduler
+etcd
+coredns
+pause
